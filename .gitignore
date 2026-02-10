@@ -5,7 +5,6 @@
 .Ruserdata
 
 # Outputs
-*.html
 *_files/
 
 # Box sync
