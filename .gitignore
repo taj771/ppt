@@ -1,0 +1,12 @@
+# R specific
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Outputs
+*.html
+*_files/
+
+# Box sync
+.boxsync
